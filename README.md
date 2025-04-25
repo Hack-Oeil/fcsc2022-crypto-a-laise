@@ -1,6 +1,7 @@
 # FCSC 2022 À l'aise
 
-Cette épreuve vous propose de déchiffrer un message chiffré avec la méthode inventée par Blaise de Vigénère. La clé est FCSC et le message chiffré est :
+Cette épreuve vous propose de déchiffrer un message chiffré avec la méthode inventée par Blaise de Vigénère. 
+La clé est **FCSC** et le message chiffré est :
 
 ```
 Gqfltwj emgj clgfv ! Aqltj rjqhjsksg ekxuaqs, ua xtwk
