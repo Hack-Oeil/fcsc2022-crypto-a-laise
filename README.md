@@ -11,7 +11,7 @@ Pspygk nj 29 cntnn hqzt dg igtwy fw xtvjg rkkunqf.
 Le flag est le nom de la ville mentionnée dans ce message.
 ```
 
-Le flag est le nom de la ville mentionnée dans ce message.
+Le flag est le nom de la ville (en minuscule) mentionnée dans ce message.
 
 
 Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
